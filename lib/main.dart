@@ -16,6 +16,7 @@ class App extends StatelessWidget {
       home: const HomePage(),
       initialRoute: MyRouter.homePage,
       routes: MyRouter.routes,
+      //주석
     );
   }
 }
